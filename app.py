@@ -1,6 +1,5 @@
 import streamlit as st 
 from auth_db import csr, conn
-import pandas as pd
 
 st.header("My Todo app")
 
